@@ -1,3 +1,4 @@
 export function showHeavy() {
-  document.getElementById('output').textContent = 'Heavy component loaded on demand!';
+  const output = document.getElementById('output');
+  if (output) output.textContent = 'Heavy component loaded on demand!';
 }

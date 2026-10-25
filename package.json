@@ -1,7 +1,7 @@
 {
   "name": "perf-web-app",
-  "version": "0.0.0",
   "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,11 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "vite": "^8.3.4",
-    "vite-plugin-compression": "^0.5.1"
-=======
-    "vite": "^8.3.4"
->>>>>>> 2d0ac12dad389e0b3ddecbb9ea8a14d3b7cb962e
+    "vite": "...",
+    "vite-plugin-compression": "..."
   }
 }
